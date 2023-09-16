@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+h1{
+    color : blue;
+}
+input,select,rario{
+	background-color : white;
+}
+*{
+	background-color : #ddd;
+}
